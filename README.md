@@ -1,52 +1,97 @@
-**Amazon Sales Analytics Dashboard – 2025**
-
-	An interactive data analytics dashboard designed to analyze Amazon sales performance for 2025 across products, categories, states, time periods, and delivery/payment metrics.
-	The project provides end-to-end business insights for decision-making using dynamic visuals and KPIs.
-
-_**Project Overview**_
-
-This dashboard delivers a comprehensive view of Amazon sales by integrating:
-Sales performance metrics
-Product and category-level analysis
-State-wise and regional insights
-Monthly and quarterly trends
-Payment and delivery behavior analysis
-The dashboard is structured into multiple report pages for intuitive navigation and deep-dive analysis.
-
-_**Key KPIs**_
-
-Total Sales: $1.12B
-Order Count: 15K
-Average Sales: $74.54K
-Average Rating: 3.04
-Top Selling Product: Lipstick
-
-Dashboard Pages & Insights
- _**Summary / Overview**_
-	Total sales, orders, ratings, and top-selling product
-	Sales by category
-	Unit price by category
-	Monthly sales trend	
-	Delivery status distribution (Delivered, Pending, Returned)
-_** Products Analysis**_
-	Sales by individual product
-	Top and least contributing products
-	Product-level revenue comparison
-	Sales by State
-	Order count by state
-	Sales contribution by each state
-	Top5 and least5 contributing states
-
-_**Delivery summary per state**_
-	State & Month Analysis
-	Monthly sales by product category
-	Quarterly sales comparison
-	Regional sales performance (North, South, East, West, North-East)
-	Payment & Delivery
-_**Sales by payment method:**_
-	Cash on Delivery
-	Credit Card
-	Debit Card
-	UPI
-	Delivery status vs product category
-	Return and pending order distribution
+----------------------------------------------
+📊 Amazon Sales Analytics Dashboard 2025
+----------------------------------------------
+Power BI | Data Modeling | DAX | Business Intelligence
+---------------------------------------------
+📌 Project Summary
+Designed and developed an end-to-end interactive Power BI dashboard to analyze Amazon sales performance across India for 2025.
+This project demonstrates:
+Strong data modeling fundamentals
+Practical DAX measure implementation
+KPI-driven executive reporting
+Multi-dimensional sales analysis
+Business storytelling through data
+---------------------------------------------
+🎯 Business Problem
+E-commerce leadership requires:
+Visibility into revenue performance
+Identification of high-performing states and categories
+Payment method adoption insights
+Delivery performance monitoring
+---------------------------------------------
+Seasonal trend analysis
+This dashboard consolidates all these requirements into a structured executive reporting solution.
+------------------------------------------
+📈 Key Metrics Delivered
+KPI	Value
+Total Revenue	$1.12B
+Total Orders	15,000
+Average Order Value	$74.54K
+Average Rating	3.04
+Top Product	Lipstick
+-------------------------------------------
+📊 Analytical Insights
+1️⃣ Revenue Distribution by Category
+Beauty and Electronics generate the highest revenue (~$0.23B each)
+Balanced revenue mix reduces dependency risk
+Clear category-level performance visibility
+--------------------------------------------
+2️⃣ Time-Series Performance
+Strong Q4 growth trend
+December highest revenue month ($97.5M)
+February lowest revenue month ($85M)
+Insight: Clear seasonal acceleration toward year-end.
+---------------------------------------------
+3️⃣ State-Level Contribution
+Top Performing States
+Sikkim – $43.11M
+Rajasthan – $42.91M
+Chhattisgarh – $42.86M
+Underperforming States
+Gujarat – $36.2M
+Andhra Pradesh – $36.2M
+Insight: Revenue spread is relatively even, indicating nationwide demand stability.
+---------------------------------------------
+4️⃣ Regional Performance
+Region	Revenue
+North East	$0.32B
+North	$0.24B
+West	$0.20B
+South	$0.20B
+East	$0.16B
+---------------------------------------------
+5️⃣ Payment Behavior Analysis
+Payment methods analyzed:
+Cash on Delivery
+Credit Card
+Debit Card
+UPI
+Observation: Digital payment adoption (UPI & Credit Card) is strong across categories.
+----------------------------------------------
+6️⃣ Logistics & Delivery Analysis
+Delivery Status Breakdown:
+Delivered: ~34%
+Pending: ~33%
+Returned: ~32%
+Insight: Balanced logistics performance; return rate monitoring opportunity exists.
+-----------------------------------------------
+🛠 Technical Implementation
+Fact table: Sales transactions
+----------------------------------------------
+Dashboard Features
+Interactive slicers (State, Month)
+Drill-down capability
+Page navigation buttons
+KPI cards
+Consistent UI theme
+Cross-filtering visuals
+-----------------------------------------------
+🧠 Skills Demonstrated
+Business intelligence reporting
+Data modeling best practices
+DAX measure creation
+KPI-driven dashboard design
+Analytical reasoning
+Data storytelling
+UX-focused report design
+--------------------------------------------
