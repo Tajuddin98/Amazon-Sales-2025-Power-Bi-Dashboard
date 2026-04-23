@@ -88,8 +88,8 @@ Cross-filtering visuals
 -----------------------------------------------
 🧠 Skills Demonstrated
 Business intelligence reporting
-Data modeling best practices
-DAX measure creation
+Data modeling 
+DAX 
 KPI-driven dashboard design
 Analytical reasoning
 Data storytelling
